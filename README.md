@@ -1,3 +1,28 @@
+A cloned repo of JS challenges created by The Odin Project.
+
+Completed challenges
+- [x] helloWorld
+- [x] repeatString
+- [x] reverseString
+- [x] sumAll
+- [x] leapYears
+- [x] tempConversion
+- [x] caesar
+- [x] removeFromArray
+
+Incomplete Challenges
+- [ ] calculator
+- [ ] fibonacci
+- [ ] findTheOldest
+- [ ] generator-exercise
+- [ ] pig_latin
+- [ ] palindromes
+- [ ] snakeCase
+- [ ] getTheTitles
+
+===
+Original README
+
 These are a series of javascript exercises intended to be used alongside the curriculum at 'The Odin Project'  They start very simply, but get more involved as you progress through them.
 
 There will eventually be a suggested order of completion, but at this time since we are still in the process of creating more exercises the order is subject to change and has not yet been specified... In general however there are a couple which make a good "starting point" feel free to at least start with these:
