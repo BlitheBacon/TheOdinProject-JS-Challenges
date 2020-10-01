@@ -9,16 +9,16 @@ Completed challenges
 - [x] tempConversion
 - [x] caesar
 - [x] removeFromArray
+- [x] calculator
+- [x] fibonacci
+- [x] palindromes
+- [x] getTheTitles
+- [x] findTheOldest
 
 Incomplete Challenges
-- [ ] calculator
-- [ ] fibonacci
-- [ ] findTheOldest
 - [ ] generator-exercise
 - [ ] pig_latin
-- [ ] palindromes
 - [ ] snakeCase
-- [ ] getTheTitles
 
 ## Original README
 
